@@ -1,5 +1,7 @@
-# Alocacao-Dinamica.
-Projeto realizado para faculdade.
+ <h1 align="center">
+    <img width="45" src="https://img.icons8.com/pulsar-line/48/upside-down-icon.png" alt="upside-down-icon"/>
+    <span> Alocação Dinamica. (PT/BR) </span>
+</h1>
 
 Para a realização desta atividade, realizamos um sistema em C para cadastrar clientes de uma loja, a estrutura do projeto seria: 
 
